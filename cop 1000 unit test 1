@@ -1,6 +1,6 @@
 # input statements
 salary = float(60000.0)
-numDependents = 6
+numDependents = 3
 # calculate taxes heres
 stateTax= ( salary *0.065)
 federalTax= ( salary * 0.28)
